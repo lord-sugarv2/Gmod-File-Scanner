@@ -59,4 +59,3 @@ end
 concommand.Add("filechecker", function()
     OpenChecker()
 end)
-RunConsoleCommand("filechecker")
